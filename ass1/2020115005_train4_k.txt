@@ -1,0 +1,17 @@
+<SOS> <SOS> <SOS> pride   prejudice <EOS>  <SOS> <SOS> <SOS> pride prejudice <EOS>
+3.58321307138923
+<SOS> <SOS> <SOS> chapter i <EOS>  <SOS> <SOS> <SOS> chapter i <EOS>
+3.227561688845843
+<SOS> <SOS> <SOS> it is a truth universally acknowledged  that a single man in possession of a good fortune  must be in want of a wife <EOS>  <SOS> <SOS> <SOS> it is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife <EOS>
+1.5327754870598607
+<SOS> <SOS> <SOS> my dear mr bennet   said his lady to him one day   have you heard that netherfield park is let at last <EOS>  <SOS> <SOS> <SOS> my dear mr bennet said his lady to him one day have you heard that netherfield park is let at last <EOS>
+2.333205406851509
+<SOS> <SOS> <SOS> mr bennet replied that he had not <EOS>  <SOS> <SOS> <SOS> mr bennet replied that he had not <EOS>
+3.5656884848710817
+<SOS> <SOS> <SOS> long has just been here  and she told me all about it <EOS>  <SOS> <SOS> <SOS> long has just been here and she told me all about it <EOS>
+2.5122877953575333
+<SOS> <SOS> <SOS> mr bennet made no answer <EOS>  <SOS> <SOS> <SOS> mr bennet made no answer <EOS>
+2.509696084421333
+<SOS> <SOS> <SOS> do not you want to know who has taken it <EOS>  <SOS> <SOS> <SOS> do not you want to know who has taken it <EOS>
+2.8705776827919154
+<SOS> <SOS> <SOS> cried his wife impatiently <EOS>  <SOS> <SOS> <SOS> cried his wife impatiently <EOS>
